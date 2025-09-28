@@ -1,1 +1,29 @@
 P3 - Clasificación de los lenguajes por ofertas de trabajo.
+
+## Capturas de búsquedas de Java
+
+**Captura 1 — Búsqueda Java (Worldwide)**
+![Captura de pantalla desarrollador java](Imágenes/java_worldwide.png)
+![Captura de pantalla desarrollador java sin experiencia](Imágenes/java_worldwide_no_experiencia.png)
+![Captura de pantalla desarrollador software](Imágenes/software_worldwide.png)
+![Captura de pantalla desarrollador software sin experiencia](Imágenes/software_worldwide_no_experiencia.png)
+
+**Captura 2 — Búsqueda Java (España)**
+
+![Captura de pantalla desarrollador java en españa sin experiencia](Imágenes/java_spain_no_experiencia.png)
+![Captura de pantalla desarrollador java en españa](Imágenes/java_spain.png)
+![Captura de pantalla desarrollador software](Imágenes/software_spain.png)
+![Captura de pantalla desarrollador software en españa sin experiencia](Imágenes/software_spain_no_experiencia.png)
+
+## Tabla comparativa de resultados
+
+### Resultados Worldwide
+- Java: 12.345 ofertas
+
+### Resultados España
+- Java: 2.345 ofertas
+
+## Los filtros que he usado:
+- worldwide y españa para que me enseñe ofertas de trabajos para esos sitios
+- Sin experiencia ya que, no tengo experiencia y quería ver las oportunidades que hay
+- Jornada Completa
