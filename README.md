@@ -1,33 +1,55 @@
-# P3---Clasificacion-de-los-lenguajes-por-ofertas-de-trabajo.
+# 📊 Práctica: Demanda laboral de lenguajes de programación  
 
-P3 - Clasificación de los lenguajes por ofertas de trabajo.
+## 🔹 Metodología  
 
-## Capturas de búsquedas de Java
+4. Se aplicaron los siguientes filtros:  
+   - **Ubicación:** Worldwide y España  
+   - **Nivel de experiencia:** Sin experiencia  
+   - **Tipo de jornada:** Jornada completa  
+5. Se registró el número de ofertas y se capturaron pantallas como evidencia.  
 
-**Captura 1 — Búsqueda Java (Worldwide)**
-![Captura de pantalla desarrollador java](Imágenes/java_worldwide.png)
-![Captura de pantalla desarrollador java sin experiencia](Imágenes/java_worldwide_no_experiencia.png)
-![Captura de pantalla desarrollador software](Imágenes/software_worldwide.png)
-![Captura de pantalla desarrollador software sin experiencia](Imágenes/software_worldwide_no_experiencia.png)
+---
 
-**Captura 2 — Búsqueda Java (España)**
+## 🔹 Resultados  
 
-![Captura de pantalla desarrollador java en españa sin experiencia](Imágenes/java_spain_no_experiencia.png)
-![Captura de pantalla desarrollador java en españa](Imágenes/java_spain.png)
-![Captura de pantalla desarrollador software](Imágenes/software_spain.png)
-![Captura de pantalla desarrollador software en españa sin experiencia](Imágenes/software_spain_no_experiencia.png)
+### 🌍 Worldwide  
 
-## Tabla comparativa de resultados
+| Lenguaje    | Ofertas |
+|-------------|---------|
+| Java        | 136     |
 
-### Resultados Worldwide
-- Java: 136 ofertas
 
-### Resultados España
-- Java: 122 ofertas
+---
 
-## Los filtros que he usado:
-- worldwide y españa para que me enseñe ofertas de trabajos para esos sitios
-- Sin experiencia ya que, no tengo experiencia y quería ver las oportunidades que hay
-- Jornada Completa
+### 🇪🇸 España  
 
+| Lenguaje    | Ofertas |
+|-------------|---------|
+| Java        | 122     |
+
+
+
+### Capturas de búsquedas de **Java**
+
+#### 🌍 Worldwide  
+- Desarrollador Java  
+![Captura de pantalla desarrollador java](Imágenes/java_worldwide.png)  
+- Desarrollador Java (sin experiencia)  
+![Captura de pantalla desarrollador java sin experiencia](Imágenes/java_worldwide_no_experiencia.png)  
+- Desarrollador Software  
+![Captura de pantalla desarrollador software](Imágenes/software_worldwide.png)  
+- Desarrollador Software (sin experiencia)  
+![Captura de pantalla desarrollador software sin experiencia](Imágenes/software_worldwide_no_experiencia.png)  
+
+---
+
+#### 🇪🇸 España  
+- Desarrollador Java  
+![Captura de pantalla desarrollador java en españa](Imágenes/java_spain.png)  
+- Desarrollador Java (sin experiencia)  
+![Captura de pantalla desarrollador java en españa sin experiencia](Imágenes/java_spain_no_experiencia.png)  
+- Desarrollador Software  
+![Captura de pantalla desarrollador software](Imágenes/software_spain.png)  
+- Desarrollador Software (sin experiencia)  
+![Captura de pantalla desarrollador software en españa sin experiencia](Imágenes/software_spain_no_experiencia.png)  
 
