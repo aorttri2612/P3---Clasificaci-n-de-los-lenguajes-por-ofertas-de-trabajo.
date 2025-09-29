@@ -4,7 +4,7 @@
 
 4. Se aplicaron los siguientes filtros:  
    - **Ubicación:** Worldwide y España  
-   - **Nivel de experiencia:** Sin experiencia  
+   - **Nivel de experiencia:** Sin experiencia y no poner nada. 
    - **Tipo de jornada:** Jornada completa  
 5. Se registró el número de ofertas y se capturaron pantallas como evidencia.  
 
