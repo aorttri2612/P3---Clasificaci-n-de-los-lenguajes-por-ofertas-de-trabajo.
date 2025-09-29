@@ -1,6 +1,6 @@
 # 📊 Práctica: Demanda laboral de lenguajes de programación  
 
-## 🔹 Metodología  
+## Metodología  
 
 4. Se aplicaron los siguientes filtros:  
    - **Ubicación:** Worldwide y España  
@@ -10,9 +10,9 @@
 
 ---
 
-## 🔹 Resultados  
+## Resultados  
 
-### 🌍 Worldwide  
+### Worldwide  
 
 | Lenguaje    | Ofertas |
 |-------------|---------|
@@ -32,10 +32,10 @@
 ### Capturas de búsquedas de **Java**
 
 #### 🌍 Worldwide  
-- Desarrollador Java  
-![Captura de pantalla desarrollador java](Imágenes/java_worldwide.png)  
+- Desarrollador Java
+- <img width="1554" height="738" alt="image" src="https://github.com/user-attachments/assets/338ade76-ec8e-492f-b87d-a215a1ae77b9" />  
 - Desarrollador Java (sin experiencia)  
-![Captura de pantalla desarrollador java sin experiencia](Imágenes/java_worldwide_no_experiencia.png)  
+- <img width="1552" height="737" alt="image" src="https://github.com/user-attachments/assets/898b2598-c409-45db-8c49-d692a509dcac" />
 - Desarrollador Software  
 ![Captura de pantalla desarrollador software](Imágenes/software_worldwide.png)  
 - Desarrollador Software (sin experiencia)  
